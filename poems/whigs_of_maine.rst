@@ -44,5 +44,5 @@ Whigs of Maine! the young merchant fails, men say he is answered by a visible es
 
 Sources
 --------
-- Essays of Ralph Waldo Emerson
-- Talks of Jiddhu Krishnamurti
+- *Essays* by Ralph Waldo Emerson
+- Talks by Jiddhu Krishnamurti
