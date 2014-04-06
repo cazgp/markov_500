@@ -2,41 +2,41 @@ Whigs of Maine!
 ===============
 by Alex Raichev
 
-Theoretic kidnappers and slave-drivers!
-The young merchant fails
-And men say he is answered by a visible escort of angels
-Not physical but possible
-
-The footing of the presence of phrenologists
-Romantic, fanciful, comforting things
-Peculiar gods have affected the whole root
-And a dead church maintain
-
-Question yourself, watching, observing
-Every nation, every group, is preparing for you
-Do your work
-
-The necessity of a needle
-The opposite magnetism
-The patterns of life
-They only go out, that archangels may come in
-
-Talking is nonsense
-Whether we shall see that virtue is height
-And that is causing such great destruction
-Is worth a hundred chances
-
-Let a Stoic open the door 
-To find out, doubt, ask
-Which means you never end
-Never end 
-Life is not yours or mine
-
-End your attachment 
-End your belief
-We are human beings
-We are asking what is life 
-And death puts an end to which we court suffering
+| Theoretic kidnappers and slave-drivers!
+| The young merchant fails
+| And men say he is answered by a visible escort of angels
+| Not physical but possible
+| 
+| The footing of the presence of phrenologists
+| Romantic, fanciful, comforting things
+| Peculiar gods have affected the whole root
+| And a dead church maintain
+| 
+| Question yourself, watching, observing
+| Every nation, every group, is preparing for you
+| Do your work
+| 
+| The necessity of a needle
+| The opposite magnetism
+| The patterns of life
+| They only go out, that archangels may come in
+| 
+| Talking is nonsense
+| Whether we shall see that virtue is height
+| And that is causing such great destruction
+| Is worth a hundred chances
+| 
+| Let a Stoic open the door 
+| To find out, doubt, ask
+| Which means you never end
+| Never end 
+| Life is not yours or mine
+| 
+| End your attachment 
+| End your belief
+| We are human beings
+| We are asking what is life 
+| And death puts an end to which we court suffering
 
 Raw Mash
 ---------
