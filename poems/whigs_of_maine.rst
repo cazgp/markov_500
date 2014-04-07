@@ -1,6 +1,5 @@
 Whigs of Maine!
 ===============
-by Alex Raichev
 
 | Theoretic kidnappers and slave-drivers!
 | The young merchant fails
@@ -46,3 +45,7 @@ Sources
 --------
 - *Essays* by Ralph Waldo Emerson
 - Talks by Jiddhu Krishnamurti
+
+Author
+-------
+Alex Raichev
