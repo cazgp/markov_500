@@ -12,7 +12,7 @@ Dr. C. C. GOLDRING: Residual impressions appear, wending like the waves of an oc
 
 C. Goldring: Dr., The Archbishop of Canterbury is always addressed as either "My Lord" or "Your Grace" till the time of death. He is conducting meetings which are attended by more than 400 stations on this continent and approximately fifty foreign stations. He has also appealed to thousands by means of religious films, of which four have now been produced under his general direction. He said he no longer needed his faith, he no longer needed his faith, he no longer believed in God and the snake, that he discarded religion.
 
-Dr. C. C. GOLDRING: It is only an aid for rendering. Inquire into this alone: Who am I? 
+Dr. C. C. GOLDRING: It is only an aid for rendering. The nature of Awareness is existence-consciousness-bliss. Inquire into this alone: Who am I? 
 
 C. Goldring: Dr.--
 
