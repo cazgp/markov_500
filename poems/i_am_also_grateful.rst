@@ -14,6 +14,10 @@ C. Goldring: Dr., The Archbishop of Canterbury is always addressed as either "My
 
 Dr. C. C. GOLDRING: It is only an aid for rendering. The nature of Awareness is existence-consciousness-bliss. Inquire into this alone: Who am I? 
 
+C. Goldring: ...
+
+Dr. C. C. GOLDRING: ...
+
 C. Goldring: Dr.--
 
 Dr. C. C. GOLDRING: ...
