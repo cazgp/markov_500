@@ -1,5 +1,5 @@
 """
-This is a Python text masher based on Markov analysis and is inspired by
+This is a Python text mixer based on Markov analysis and is inspired by
 `Section 13.8 of **How to think like a computer scientist ** <http://www.greenteapress.com/thinkpython/html/thinkpython014.html#toc149>`_.
 """
 from __future__ import print_function
@@ -15,10 +15,10 @@ def parse_args():
     parser = argparse.ArgumentParser(
       formatter_class=argparse.RawDescriptionHelpFormatter, 
       description=textwrap.dedent('''\
-        A little command-line text masher
+        A little command-line text mixer
       '''))
     parser.add_argument('infiles', nargs='+', 
-      help='A list of text files to mash up')
+      help='A list of text files to mix')
     # parser.add_argument('infiles', nargs='+', metavar='input_file',
     #   )
     parser.add_argument('-o', '--outfile', nargs='?', 
@@ -27,7 +27,7 @@ def parse_args():
     parser.add_argument('-n', '--num_words', nargs='?', type=int, default=500,
       help='Target number of words in output. Might be slightly more to end at the end of a sentence (default: 500)')    
     parser.add_argument('-r', '--ratios', nargs='?', 
-      help='Mix ratios for the mash, e.g. 2,1,5 for 2 parts from the first file, 1 part from the second, and 5 parts from the third (default: equal parts from all files)')    
+      help='Mix ratios for the mix, e.g. 2,1,5 for 2 parts from the first file, 1 part from the second, and 5 parts from the third (default: equal parts from all files)')    
     return parser.parse_args()
 
 def process_files(files, ratios):
