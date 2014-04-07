@@ -1,4 +1,4 @@
-Whigs of Maine!
+Whigs of Maine
 ===============
 
 | Theoretic kidnappers and slave-drivers!
