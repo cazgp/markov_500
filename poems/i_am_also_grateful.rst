@@ -1,40 +1,40 @@
 I am also grateful
 ==================
 
-C. Goldring: DR. C. C. GOLDRING, a German scientist recently said in Germany 
+C Goldring: DR C C GOLDRING, a German scientist recently said in Germany 
 that it rises in the scientific, economic and industrial advances we had made that somehow science and religion could not be under the impression that it is now possible to depopulate the entire world, battling, as one United Nations delegate recently said, for our very survival.
 
-DR. C. C. GOLDRING: Thoughts are the gross form of mind, particularly in intellectual circles. 
+DR C C GOLDRING: Thoughts are the gross form of mind, particularly in intellectual circles. 
 Leave them alone. 
 They are really jokes and carry some to extremes. 
 Look around at the clear blue sky. 
 Stand up in the heart. 
 That is the way.
 
-C. Goldring: DR., in the United States, economically, morally, politically,
+C Goldring: DR, in the United States, economically, morally, politically,
 religiously and otherwise just as even while out of the century we saw something happen, we began to feel that in the United States the problems we must be afraid of weapons today, that the entire world could be swept into destruction.
 
-DR. C. C. GOLDRING: Residual impressions appear, wending like the waves of 
+DR C C GOLDRING: Residual impressions appear, wending like the waves of 
 an ocean. 
 But when the mind becomes quiescent, the world will disappear.
 
-C. Goldring: DR., The Archbishop of Canterbury is always addressed as 
+C Goldring: DR, The Archbishop of Canterbury is always addressed as 
 either "My Lord" or "Your Grace" till the time of death. He is conducting meetings which are attended by more than 400 stations on this continent and approximately fifty foreign stations. He has also appealed to thousands by means of religious films, of which four have now been produced under his general direction. 
 He said he no longer needed his faith, he no longer needed his faith, he no longer believed in God and the snake, that he discarded religion.
 
-DR. C. C. GOLDRING: It is only an aid for rendering. 
+DR C C GOLDRING: It is only an aid for rendering. 
 The nature of Awareness is existence-consciousness-bliss. 
 Inquire into this alone: Who am I? 
 
-C.Goldring: ...
+C Goldring: ...
 
-DR. C. C. GOLDRING: ...
+DR C C GOLDRING: ...
 
-C.Goldring: DR.--
+C Goldring: DR--
 
-DR. C. C. GOLDRING: ...
+DR C C GOLDRING: ...
 
-C.Goldring: ...
+C Goldring: ...
 
 
 
