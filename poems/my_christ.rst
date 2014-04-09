@@ -8,7 +8,7 @@ My Christ
 | 
 | I deserve to be righteous
 | Or to pronounce righteous
-| A full head and an empty soul
+| But a full head and an empty soul
 | I can't analyze it
 | I tried to hide
 | I can't put it off
